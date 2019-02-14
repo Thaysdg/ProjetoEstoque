@@ -1,2 +1,2 @@
-# ProjetoEstoqueO
+# ProjetoEstoque
 Projeto estoque
